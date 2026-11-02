@@ -1,5 +1,5 @@
 import { Card, CardContent } from '@/components/ui';
-import { getImageUrl } from '@/lib/utils';
+import { getImageUrl } from '@/lib/utils/images';
 
 const ListingCard = ({ listing }) => {
   return;
